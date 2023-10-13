@@ -1,0 +1,6 @@
+main() 
+{
+printf("This is GitHub Immersion Homework.");
+printf("Hello World!");
+return 0;
+}
